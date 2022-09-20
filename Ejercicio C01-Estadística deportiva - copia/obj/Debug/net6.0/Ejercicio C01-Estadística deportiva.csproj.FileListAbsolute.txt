@@ -1,0 +1,12 @@
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\obj\Debug\net6.0\Ejercicio C01-Estadística deportiva.csproj.AssemblyReference.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\obj\Debug\net6.0\Ejercicio C01-Estadística deportiva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\obj\Debug\net6.0\Ejercicio C01-Estadística deportiva.AssemblyInfoInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\obj\Debug\net6.0\Ejercicio C01-Estadística deportiva.AssemblyInfo.cs
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\obj\Debug\net6.0\Ejercicio C01-Estadística deportiva.csproj.CoreCompileInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\bin\Debug\net6.0\Ejercicio C01-Estadística deportiva.deps.json
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\bin\Debug\net6.0\Ejercicio C01-Estadística deportiva.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\bin\Debug\net6.0\Ejercicio C01-Estadística deportiva.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\obj\Debug\net6.0\Ejercicio C01-Estadística deportiva.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\obj\Debug\net6.0\refint\Ejercicio C01-Estadística deportiva.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\obj\Debug\net6.0\Ejercicio C01-Estadística deportiva.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Estadística deportiva\obj\Debug\net6.0\ref\Ejercicio C01-Estadística deportiva.dll
